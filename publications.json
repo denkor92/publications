@@ -188,6 +188,25 @@
     "link": "https://www.frontiersin.org/articles/10.3389/frobt.2024.1288818/full",
     "source": "Journal Article"
   },
+    {
+        "title": "Does a robot’s gaze behavior affect entrainment in HRI?",
+        "year": 2024,
+        "authors": [
+            "Jay Kejriwal",
+            "Chinmaya Mishra",
+            "Gabriel Skantze",
+            "Tom Offrede",
+            "Štefan Beňuš"
+        ],
+        "book": "Computing and Informatics",
+        "keywords": [
+            "GAZE",
+            "HRI",
+            "SPEECH"
+        ],
+        "link": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3610761",
+        "source": "Journal Article"
+    },
   {
     "title": "Customer experience quality with social robots: Does trust matter?",
     "year": 2024,
@@ -204,6 +223,23 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0040162523007175",
     "source": "Journal Article"
   },
+    {
+        "title": "Recommendations for designing conversational companion robots with older adults through foundation models",
+        "year": 2024,
+        "authors": [
+            "Bahar Irfan",
+            "Sanna Kuoppamäki",
+            "Gabriel Skantze"
+        ],
+        "book": "Frontiers in Robotics and AI",
+        "keywords": [
+            "LLM",
+            "ELDERLY",
+            "DIALOG"
+        ],
+        "link": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1363713/full",
+        "source": "Journal Article"
+    },
  {
         "title": "Stereotypical nationality representations in HRI: perspectives from international young adults",
         "year": 2023,
