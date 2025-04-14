@@ -68,19 +68,6 @@
         "source": "Conference Paper"
     },
     {
-        "title": "The Influence of the Perception of Social Touch on Human-Robot Interaction",
-        "year": 2025,
-        "authors": [
-            "Sarah Onrust"
-        ],
-        "book": "",
-        "keywords": [
-            "HRI", "EMBODIMENT"
-        ],
-        "link": "https://essay.utwente.nl/105055/",
-        "source": "Master's Thesis"
-    },
-    {
         "title": "A Human-Robot Interaction in Education: A Systematic Review of Furhat Robots Role in Student Learning",
         "year": 2025,
         "authors": [
@@ -157,7 +144,67 @@
         "link": "https://link.springer.com/article/10.1007/s12369-025-01228-3",
         "source": "Journal Article"
     },
-    {
+ {
+    "title": "Children's Word Learning from Socially Contingent Robots Under Active vs. Passive Learning Condition",
+    "year": 2024,
+    "authors": [
+        "Fatih Sivridag", 
+        "Nivedita Mani"
+    ],
+    "book": "HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction",
+    "keywords": [
+        "GAZE", 
+        "LEARNING",
+        "CHILDREN"],
+    "link": "https://dl.acm.org/doi/10.1145/3610977.3634931",
+    "source": "Conference Paper"
+  },
+  {
+    "title": "Speaking Transparently: Social Robots in Educational Settings",
+    "year": 2024,
+    "authors": [
+        "Ronald Cumbal",
+        "Olov Engwall"
+    ],
+    "book": "HRI '24: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction",
+    "keywords": [
+        "DIALOG",
+        "TRUST"
+    ],
+    "link": "https://dl.acm.org/doi/10.1145/3610978.3640717",
+    "source": "Conference Paper"
+  },
+  {
+    "title": "Freedom comes at a cost?: An exploratory study on affordances’ impact on users’ perception of a social robot",
+    "year": 2024,
+    "authors": [
+        "Guanyu Huang",
+        "Roger K. Moore"
+    ],
+    "book": "Front. Robot. AI, 18 March 2024, Sec. Human-Robot Interaction, Volume 11 - 2024",
+    "keywords": [
+        "HRI"
+    ],
+    "link": "https://www.frontiersin.org/articles/10.3389/frobt.2024.1288818/full",
+    "source": "Journal Article"
+  },
+  {
+    "title": "Customer experience quality with social robots: Does trust matter?",
+    "year": 2024,
+    "authors": [
+        "Sanjit K. Roy",
+        "Gaganpreet Singh",
+        "Saalem Sadeque",
+        "Richard L. Gruner"
+    ],
+    "book": "Technological Forecasting and Social Change, Volume 198, January 2024",
+    "keywords": [
+        "TRUST"
+    ],
+    "link": "https://www.sciencedirect.com/science/article/pii/S0040162523007175",
+    "source": "Journal Article"
+  },
+ {
         "title": "Stereotypical nationality representations in HRI: perspectives from international young adults",
         "year": 2023,
         "authors": [
