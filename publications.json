@@ -2,90 +2,158 @@
     {
         "title": "Enhancing Academic Advising Through AI: A Conceptual Model for Furhat Robot Adoption in Higher Education",
         "year": 2025,
-        "authors": ["Jabar H. Yousif", "MJ. Yousif Almutoory"],
+        "authors": [
+            "Jabar H. Yousif",
+            "MJ. Yousif Almutoory"
+        ],
         "book": "Artificial Intelligence & Robotics Development Journal, Volume 5, Issue 2, 2025",
-        "keywords": ["TRUST", "EDUCATION", "DIALOG"],
+        "keywords": [
+            "TRUST", 
+            "EDUCATION",
+            "DIALOG"
+        ],
         "link": "https://testojs.acaa-p.com/index.php/AIRDJ/article/view/37",
         "source": "Journal Article"
     },
     {
         "title": "Understanding Technology Acceptance of Social Robots as Conversational Interfaces for LLMs",
         "year": 2025,
-        "authors": ["Rinat B. Rosenberg-Kima", "Ilona Buchem"],
+        "authors": [
+            "Rinat B. Rosenberg-Kima",
+            "Ilona Buchem"
+        ],
         "book": "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
-        "keywords": ["LLM", "HRI", "DIALOG"],
+        "keywords": [
+            "LLM",
+            "HRI",
+            "DIALOG"
+        ],
         "link": "https://dl.acm.org/doi/abs/10.5555/3721488.3721724",
         "source": "Conference Paper"
     },
     {
         "title": "Large Language Models Cover for Speech Recognition Mistakes: Evaluating Conversational AI for Second Language Learners",
         "year": 2025,
-        "authors": ["Eva Verhelst", "Tony Belpaeme"],
+        "authors": [
+            "Eva Verhelst", 
+            "Tony Belpaeme"
+        ],
         "book": "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
-        "keywords": ["LLM", "SPEECH", "EDUCATION"],
+        "keywords": [
+            "LLM", 
+            "SPEECH", 
+            "EDUCATION"
+        ],
         "link": "https://dl.acm.org/doi/abs/10.5555/3721488.3721749",
         "source": "Conference Paper"
     },
     {
         "title": "Welcome to the Library: Integrating Social Robots in Indian Libraries",
         "year": 2025,
-        "authors": ["Nidadavole Narasimha Lokhesh", "Kailash Swaminathan", "Guru Shravan", "Dipesh Menon", "Sashikala Mishra", "Anuj Nandanwar", "Chinmaya Mishra"],
+        "authors": [
+            "Nidadavole Narasimha Lokhesh",
+            "Kailash Swaminathan", 
+            "Guru Shravan", 
+            "Dipesh Menon",
+            "Sashikala Mishra",
+            "Anuj Nandanwar",
+            "Chinmaya Mishra"
+        ],
         "book": "ICSR 2024 (International Conference on Social Robotics), Springer Proceedings",
-        "keywords": ["HRI", "EDUCATION"],
+        "keywords": [
+            "HRI",
+            "EDUCATION"
+        ],
         "link": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3643188",
         "source": "Conference Paper"
     },
     {
         "title": "The Influence of the Perception of Social Touch on Human-Robot Interaction",
         "year": 2025,
-        "authors": ["Sarah Onrust"],
+        "authors": [
+            "Sarah Onrust"
+        ],
         "book": "",
-        "keywords": ["HRI", "EMBODIMENT"],
+        "keywords": [
+            "HRI", "EMBODIMENT"
+        ],
         "link": "https://essay.utwente.nl/105055/",
         "source": "Master's Thesis"
     },
     {
         "title": "A Human-Robot Interaction in Education: A Systematic Review of Furhat Robots Role in Student Learning",
         "year": 2025,
-        "authors": ["MJ Yousif Almutoory", "Xianta Jiang"],
+        "authors": [
+            "MJ Yousif Almutoory", 
+            "Xianta Jiang"
+        ],
         "book": "Artificial Intelligence & Robotics Development Journal, Volume 5, Issue 1, 2025",
-        "keywords": ["EDUCATION", "TRUST"],
+        "keywords": [
+            "EDUCATION",
+            "TRUST"
+        ],
         "link": "https://testojs.acaa-p.com/index.php/AIRDJ/article/view/36",
         "source": "Journal Article"
     },
     {
         "title": "Predicting User Satisfaction in a Public Space HRI-Scenario",
         "year": 2025,
-        "authors": ["Michael Schiffmann", "Oliver Chojnowski", "Anja Richert"],
+        "authors": [
+            "Michael Schiffmann", 
+            "Oliver Chojnowski",
+            "Anja Richert"
+        ],
         "book": "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
-        "keywords": ["HRI", "EMOTIONS"],
+        "keywords": [
+            "HRI", 
+            "EMOTIONS"
+        ],
         "link": "https://dl.acm.org/doi/abs/10.5555/3721488.3721727",
         "source": "Conference Paper"
     },
     {
         "title": "Between You and Me: Ethics of Self-Disclosure in Human-Robot Interaction",
         "year": 2025,
-        "authors": ["Bahar Irfan", "Gabriel Skantze"],
+        "authors": [
+            "Bahar Irfan",
+            "Gabriel Skantze"],
         "book": "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
-        "keywords": ["LLM", "PRIVACY"],
+        "keywords": [
+            "LLM", 
+            "PRIVACY"],
         "link": "https://dl.acm.org/doi/abs/10.5555/3721488.3721679",
         "source": "Conference Paper"
     },
     {
         "title": "Between reality and delusion: challenges of applying large language models to companion robots for open-domain dialogues with older adults",
         "year": 2025,
-        "authors": ["Bahar Irfan", "Sanna Kuoppamäki", "Aida Hosseini", "Gabriel Skantze"],
+        "authors": [
+            "Bahar Irfan",
+            "Sanna Kuoppamäki", 
+            "Aida Hosseini", 
+            "Gabriel Skantze"],
         "book": "Autonomous Robots",
-        "keywords": ["LLM", "ELDERLY", "DIALOG"],
+        "keywords": [
+            "LLM", 
+            "ELDERLY", 
+            "DIALOG"],
         "link": "https://link.springer.com/article/10.1007/s10514-025-10190-y",
         "source": "Journal Article"
     },
     {
         "title": "BRILLO: Personalised HRI with a Bartender Robot",
         "year": 2025,
-        "authors": ["Alessandra Rossi", "Silvia Rossi", "Maria Di Maro", "Antonio Origlia"],
+        "authors": [
+            "Alessandra Rossi", 
+            "Silvia Rossi", 
+            "Maria Di Maro",
+            "Antonio Origlia"
+        ],
         "book": "International Journal of Social Robotics",
-        "keywords": ["HRI", "MULTIPARTY", "ENGAGEMENT"],
+        "keywords": [
+            "HRI", 
+            "MULTIPARTY", 
+            "ENGAGEMENT"],
         "link": "https://link.springer.com/article/10.1007/s12369-025-01228-3",
         "source": "Journal Article"
     },
