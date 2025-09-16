@@ -1,5 +1,151 @@
 [
     {
+        "title": "A Robot of One’s Own: The Impact of User-Driven Customization on Human–Robot Interactions",
+        "year": 2025,
+        "authors": [
+            "Emily S. Cross",
+            "Mary Ellen Foster",
+            "Amelie Voges"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": [
+            "TRUST", 
+            "FACE",
+            "DIALOG"],
+        "link": "",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "BT-ACTION: A Test-Driven Approach for Modular Understanding of User Instruction Leveraging Behaviour Trees and LLMs",
+        "year": 2025,
+        "authors": [
+            "Iolanda Leite",
+            "Sarah Gillet",
+            "Alexander Leszczynski",
+            "Fethiye Irmak Doğan"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": [
+            "LLM" 
+        ],
+        "link": "https://arxiv.org/abs/2504.02779",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "Do I See Myself in Them? Exploring the Effects of Robot-Human Gender Congruence on Perceived Anthropomorphism and Intelligence",
+        "year": 2025,
+        "authors": [
+            "Thosha Moodley",
+            "Mirjam de Haas",
+            "Julia Maas"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": [
+            "HRI" 
+            ],
+        "link": "https://www.researchgate.net/publication/393006344_Do_I_See_Myself_in_Them_Exploring_the_Effects_of_Robot-Human_Gender_Congruence_on_Perceived_Anthropomorphism_and_Intelligence",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "Furhat Robot for Children: Designing an Interactive Educational Activity",
+        "year": 2025,
+        "authors": [
+            "Anara Sandygulova",
+            "Nurziya Oralbayeva",
+            "Ameli Isteleyeva",
+            "Nurbanu Zhenissova",
+            "Zhansaule Telisheva",
+            "Aida Tungatarova"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": ["CHILDREN", 
+            "EDUCATION",
+            "DIALOG"],
+        "link": "",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "The Influence of Facial Features on Perceived Trustworthiness of a Social Robot",
+        "year": 2025,
+        "authors": [
+            "Benedict Barrows",
+            "Roger K. Moore"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": [
+            "HRI",
+            "TRUST"
+        ],
+        "link": "",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "The Multilingual Student Support Robot",
+        "year": 2025,
+        "authors": [
+            "Shaul Ashkenazi",
+            "Jane Stuart-Smith",
+            "Mary Ellen Foster",
+            "Gabriel Skantze"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": [
+            "HRI",
+            "DIALOG"
+        ],
+        "link": "https://eprints.gla.ac.uk/357490/",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "When to Say \"Hi\" - Learn to Open a Conversation with an In-The-Wild Dataset",
+        "year": 2025,
+        "authors": [
+            "Michael Schiffmann",
+            "Felix Struth",
+            "Anja Richert",
+            "Sabina Jeschke"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": ["HRI",
+            "DIALOG"],
+        "link": "",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "Who Should I Believe?: User Interpretation and Decision-Making When a Family Healthcare Robot Contradicts Human Memory",
+        "year": 2025,
+        "authors": [
+            "Ginevra Castellano",
+            "Katie Winkle",
+            "Hong Wang",
+            "Natalia Calvo-Barajas"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": ["HRI",
+            "MEMORY"],
+        "link": "https://arxiv.org/abs/2506.21322",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "Why Robots Are Bad at Detecting Their Mistakes: Limitations of Miscommunication Detection in Human-Robot Dialogue",
+        "year": 2025,
+        "authors": [
+            "Tony Belpaeme",
+            "Ruben Janssens",
+            "Jens De Bock",
+            "Sofie Labat",
+            "Eva Verhelst",
+            "Veronique Hoste"
+        ],
+        "book": "IEEE RO-MAN",
+        "keywords": [
+            "VISION", 
+            "HRI",
+            "DIALOG"],
+        "link": "https://www.rubenjanssens.be/projects/miscommunication-detection/",
+        "source": "Conference Paper"
+    },
+    {
         "title": "Enhancing Academic Advising Through AI: A Conceptual Model for Furhat Robot Adoption in Higher Education",
         "year": 2025,
         "authors": [
