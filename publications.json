@@ -1,5 +1,59 @@
 [
     {
+        "title": "Pitch Training with Furhat: Exploring Perceptions and Effects of a Social Robot in Entrepreneurship Education",
+        "year": 2025,
+        "authors": [
+            "Ilona Buchem",
+            "Yasmin Olteanu",
+            "Georges Bonga"
+        ],
+        "book": "2025 17th International Conference on Social Robotics + AI (ICSR)",
+        "keywords": ["HRI"],
+        "link": "",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "HRI-based Interview Training using the FurHat Robot",
+        "year": 2025,
+        "authors": [
+            "Roger K. Moore",
+            "Adam Jones"
+        ],
+        "book": "2025 17th International Conference on Social Robotics + AI (ICSR)",
+        "keywords": ["HRI"],
+        "link": "",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "Participatory Design for Human-Robot Interaction with Syrian Refugees and Asylum Seekers",
+        "year": 2025,
+        "authors": [
+            "Shaul Ashkenazi",
+            "Rawan Srour-Zreik",
+            "Gabriel Skantze",
+            "Jane Stuart-Smith",
+            "Mary Ellen Foster"
+        ],
+        "book": "2025 17th International Conference on Social Robotics + AI (ICSR)",
+        "keywords": ["HRI"],
+        "link": "https://tinyurl.com/icsr25focusgroups",
+        "source": "Conference Paper"
+    },
+    {
+        "title": "Towards Expert Human-Robot Interactions Using Knowledge Graphs",
+        "year": 2025,
+        "authors": [
+            "Graham Wilcock",
+            "Kristiina Jokinen",
+            "Biju Thankachan",
+            "Markku Turunen"
+        ],
+        "book": "2025 17th International Conference on Social Robotics + AI (ICSR)",
+        "keywords": ["HRI"],
+        "link": "",
+        "source": "Conference Paper"
+    },
+    {
         "title": "A Robot of One’s Own: The Impact of User-Driven Customization on Human–Robot Interactions",
         "year": 2025,
         "authors": [
@@ -7,7 +61,7 @@
             "Mary Ellen Foster",
             "Amelie Voges"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": [
             "TRUST", 
             "FACE",
@@ -24,7 +78,7 @@
             "Alexander Leszczynski",
             "Fethiye Irmak Doğan"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": [
             "LLM" 
         ],
@@ -39,7 +93,7 @@
             "Mirjam de Haas",
             "Julia Maas"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": [
             "HRI" 
             ],
@@ -57,7 +111,7 @@
             "Zhansaule Telisheva",
             "Aida Tungatarova"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": ["CHILDREN", 
             "EDUCATION",
             "DIALOG"],
@@ -71,7 +125,7 @@
             "Benedict Barrows",
             "Roger K. Moore"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": [
             "HRI",
             "TRUST"
@@ -88,7 +142,7 @@
             "Mary Ellen Foster",
             "Gabriel Skantze"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": [
             "HRI",
             "DIALOG"
@@ -105,7 +159,7 @@
             "Anja Richert",
             "Sabina Jeschke"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": ["HRI",
             "DIALOG"],
         "link": "",
@@ -120,7 +174,7 @@
             "Hong Wang",
             "Natalia Calvo-Barajas"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": ["HRI",
             "MEMORY"],
         "link": "https://arxiv.org/abs/2506.21322",
@@ -137,7 +191,7 @@
             "Eva Verhelst",
             "Veronique Hoste"
         ],
-        "book": "IEEE RO-MAN",
+        "book": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": [
             "VISION", 
             "HRI",
@@ -429,7 +483,7 @@
             "Graham Wilcock",
             "Kristiina Jokinen"
         ],
-        "book": "2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
+        "book": "2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": [
             "TRUST",
             "LLM",
